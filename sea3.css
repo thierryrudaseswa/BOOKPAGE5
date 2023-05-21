@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.maincontainer{
+    margin: 20px;
+    padding: 10px;
+
+}
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+font-size: 2.3em;
+background-color: #001;
+color: #fff;
+
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.8em;
+    font-style: italic;
+}
+.image{
+    position: relative;
+    height: 400px;
+    width: 95vw;
+    /* background-color: aqua; */
+
+
+}
+img{
+background-size: cover;
+background-repeat: no-repeat;
+    width: 94vw;
+    height: 390px;
+}
+.info{
+    font-size: 1.3em;
+    font-style: italic;
+}
